@@ -10,11 +10,25 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "axios": "^0.24.0",
     "expo": "~43.0.2",
+    "expo-app-loading": "~1.2.1",
+    "expo-blur": "~10.0.3",
+    "expo-camera": "~12.0.3",
+    "expo-image-picker": "~11.0.3",
+    "expo-linear-gradient": "~10.0.3",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-image-blur-loading": "^1.1.6",
+    "react-native-modal": "^13.0.0",
+    "react-native-progress": "^5.0.0",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.8.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
