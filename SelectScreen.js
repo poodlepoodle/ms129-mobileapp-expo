@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect, useReducer } from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { BlurView } from 'expo-blur';
 import { 
   StyleSheet,
   Text,
