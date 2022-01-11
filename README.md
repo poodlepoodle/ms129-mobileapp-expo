@@ -1,7 +1,9 @@
 # 📷 **ms129 : 머선129**
 스마트폰 카메라로 촬영한 사진을 기반으로 증명사진을 생성하는 애플리케이션
 
-[![유투브 링크](https://img.youtube.com/vi/_3O5lLitvRc/0.jpg)](https://youtu.be/_3O5lLitvRc) 
+[![유투브 링크](https://img.youtube.com/vi/_3O5lLitvRc/0.jpg)](https://youtu.be/_3O5lLitvRc)
+
+<img width="100%" src="./assets/gifs/prototype.gif"/>
 
 ## 😉 연구 배경
 
