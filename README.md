@@ -1,5 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoodlepoodle%2Fms129-mobileapp-expo&count_bg=%23232323&title_bg=%2332578A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # 📷 **ms129 : 머선129**
-스마트폰 카메라로 촬영한 사진을 기반으로 증명사진을 생성하는 애플리케이션
+✨ 스마트폰 카메라로 촬영한 사진을 기반으로 증명사진을 생성하는 애플리케이션 ✨
 
 [![유투브 링크](https://img.youtube.com/vi/_3O5lLitvRc/0.jpg)](https://youtu.be/_3O5lLitvRc)
 
