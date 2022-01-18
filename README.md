@@ -19,14 +19,14 @@ _✨ 스마트폰 카메라로 촬영한 사진을 기반으로 증명사진을 
 
 ## ☁️ 개발 환경
 
-* [Node.js](https://nodejs.org/ko/download/) _v16.13.1_
-* npm _8.1.2_
+* [Node.js](https://nodejs.org/ko/download/) `16.13.1`
+* npm `8.1.2`
     ```sh
     # install latest version of npm
     npm install npm@latest -g
     nvm use --lts
     ```
-* [Expo-cli](https://github.com/expo/expo-cli/) _4.13.0_
+* [Expo-cli](https://github.com/expo/expo-cli/) `4.13.0`
     ```sh
     # install expo-cli
     npm install -g expo-cli
